@@ -42,3 +42,7 @@ Prefer Variable.assign which has equivalent behavior in 2.X.
 [epoch 10, 600 inst] Testing ACC: 0.2250, Loss: 2.0502
 100%|##########| 12/12 [01:23<00:00,  6.93s/it]
   0%|          | 0/12 [00:00<?, ?it/s][epoch 11, 600 inst] Testing ACC: 0.2317, Loss: 2.0021
+```
+## notice：  
+1. The version of the package must be consistent.
+2. There may be a problem when downloading the data set. Then you need to download it manually.
